@@ -11,37 +11,37 @@ _Figure 1 - Plan of the office under consideration_
 
 # Summary
 
-[GOALS : 1](#_Toc535268006)
+[GOALS ](#goals)
 
-[ARCHITECTURE 3](#_Toc535268007)
+[ARCHITECTURE](#architecture)
 
-[GUI PACKAGE 4](#_Toc535268008)
+[GUI PACKAGE](#_Toc535268008)
 
-[MainFrame.java 4](#_Toc535268009)
+[MainFrame.java](#_Toc535268009)
 
-[PlotFactory.java 4](#_Toc535268010)
+[PlotFactory.java](#_Toc535268010)
 
-[PlotButtonListener.java 4](#_Toc535268011)
+[PlotButtonListener.java](#_Toc535268011)
 
-[DATA PACKAGE 5](#_Toc535268012)
+[DATA PACKAGE](#_Toc535268012)
 
-[DataContainer.java 5](#_Toc535268013)
+[DataContainer.java](#_Toc535268013)
 
-[DataContainersWithProcessing.java 5](#_Toc535268014)
+[DataContainersWithProcessing.java](#_Toc535268014)
 
-[SimulatedAnneling.java 5](#_Toc535268015)
+[SimulatedAnneling.java](#_Toc535268015)
 
-[FITTERS PACKAGE 6](#_Toc535268016)
+[FITTERS PACKAGE](#_Toc535268016)
 
-[LaptopOfficeModel.java 6](#_Toc535268017)
+[LaptopOfficeModel.java](#_Toc535268017)
 
-[MotionOfficeModel 6](#_Toc535268018)
+[MotionOfficeModel](#_Toc535268018)
 
-[DichotomicScaler.java 6](#_Toc535268019)
+[DichotomicScaler.java](#_Toc535268019)
 
-[CO2OfficeModel.java 6](#_Toc535268020)
+[CO2OfficeModel.java](#_Toc535268020)
 
-[RESULT AND CONCLUSION 7](#_Toc535268021)
+[RESULT AND CONCLUSION](#_Toc535268021)
 
 # ARCHITECTURE
 
