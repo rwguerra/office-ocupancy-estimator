@@ -5,7 +5,7 @@
 
 _The objective of the project is to create estimators, which, from data collected by sensors, are able to determine the number of people in the office in figure 1. The name of the sensors appears in green. To hear the code better a javadoc has been generated and is accessible via \ Project Final \ dist \ javadoc \ index.html_
 
-![](RackMultipart20201008-4-18mx0s7_html_6bb2822920c48070.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/office_plan.png)
 
 _Figure 1 - Plan of the office under consideration_
 
@@ -31,7 +31,7 @@ As a result, our main classes are almost empty (usually something like the new c
 
 Figure 2 shows the UML class diagram of the project.
 
-![](RackMultipart20201008-4-18mx0s7_html_46b46ec1c53332f8.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/uml-diagram.png)
 
 _Figure 2 - UML Class Diagram_
 
@@ -49,7 +49,7 @@ The Plotter class is used to create the window containing which allows you to se
 
 It is an extension of the JFrame class which contains two JPanels, one with an array of JCheckBox which contains the name of the variables as well as the results of the estimators, and the other with the buttons described above. These are associated with two &quot;listeners&quot; which allow you to perform the desired actions.
 
-![](RackMultipart20201008-4-18mx0s7_html_5cd8aab91c52689e.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/initial-gui.png)
 
 _Figure 3 - Initial GUI_
 
@@ -57,7 +57,7 @@ _Figure 3 - Initial GUI_
 
 This class is responsible for managing the plot button, it works with an action listener that checks what data and estimators need to be plotted.
 
-![](RackMultipart20201008-4-18mx0s7_html_fe22cd40f305b2f3.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/gui-plot.png)
 
 
 _Figure 4 - GUI with plot_
@@ -114,11 +114,11 @@ Unfortunately, we were unable to code the CO2-based occupancy estimate. This sol
 
 On the other hand, it is difficult to analyze the estimation graphs based on consumption and movement (figures 5 and 6) to know which was the most precise in the estimation, because we do not have concrete information on the actual hour-by-hour occupancy of the office.
 
-![](RackMultipart20201008-4-18mx0s7_html_9247609b0b879947.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/laptops-consumption.png)
 
 _Figure 5 - Estimate by consumption of laptops_
 
-![](RackMultipart20201008-4-18mx0s7_html_ce41380df8a0e3d9.png)
+![](https://raw.githubusercontent.com/rwguerra/ocupancy_estimator/main/images/motion.png)
 
 _Figure 6 - Estimation by Motion_
 
