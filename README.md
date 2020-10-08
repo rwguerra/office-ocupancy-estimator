@@ -1,7 +1,7 @@
 # ocupancy_estimator
 [JAVA] Create estimators, which, from data collected by sensors, be able to determine the number of people in an office
 
-# GOALS :
+# GOALS
 
 _The objective of the project is to create estimators, which, from data collected by sensors, are able to determine the number of people in the office in figure 1. The name of the sensors appears in green. To hear the code better a javadoc has been generated and is accessible via \ Project Final \ dist \ javadoc \ index.html_
 
@@ -11,37 +11,17 @@ _Figure 1 - Plan of the office under consideration_
 
 # Summary
 
-[GOALS ](#goals)
+[GOALS](#goals)
 
 [ARCHITECTURE](#architecture)
 
-[GUI PACKAGE](#_Toc535268008)
+[GUI PACKAGE](#gui-package)
 
-[MainFrame.java](#_Toc535268009)
+[DATA PACKAGE](#data-package)
 
-[PlotFactory.java](#_Toc535268010)
+[FITTERS PACKAGE](#fitters-package)
 
-[PlotButtonListener.java](#_Toc535268011)
-
-[DATA PACKAGE](#_Toc535268012)
-
-[DataContainer.java](#_Toc535268013)
-
-[DataContainersWithProcessing.java](#_Toc535268014)
-
-[SimulatedAnneling.java](#_Toc535268015)
-
-[FITTERS PACKAGE](#_Toc535268016)
-
-[LaptopOfficeModel.java](#_Toc535268017)
-
-[MotionOfficeModel](#_Toc535268018)
-
-[DichotomicScaler.java](#_Toc535268019)
-
-[CO2OfficeModel.java](#_Toc535268020)
-
-[RESULT AND CONCLUSION](#_Toc535268021)
+[RESULT AND CONCLUSION](#result-and-conclusion)
 
 # ARCHITECTURE
 
