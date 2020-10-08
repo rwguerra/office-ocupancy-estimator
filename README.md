@@ -1,5 +1,7 @@
 # ocupancy_estimator
-[JAVA] Create estimators, which, from data collected by sensors, be able to determine the number of people in an office
+[JAVA] Create estimators, which, from data collected by sensors, be able to determine the number of people in an office.
+
+This project was coded by @rwguerra and @liasseblopes
 
 # GOALS
 
